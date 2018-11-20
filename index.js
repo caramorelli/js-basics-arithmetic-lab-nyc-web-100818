@@ -42,9 +42,9 @@ You should NOT try to redefine any of the above variables.
   //   });
   // });
   
-  var newID = 
+var newID = 
 
-var ageIsValid = Number.isInteger()
+var ageIsValid = Number.isInteger();
 
 var randomNumber = Math.floor(Math.random(0, 20));
 
