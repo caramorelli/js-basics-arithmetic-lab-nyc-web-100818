@@ -41,6 +41,8 @@ You should NOT try to redefine any of the above variables.
   //     expect(spyOnNumberIsInteger.called).to.be.true;
   //   });
   // });
+  
+  var newID = 
 
 var ageIsValid = Number.isInteger()
 
